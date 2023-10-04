@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/infobloxopen/atlas-app-toolkit/v2/cmode/logger"
+	"github.com/piotrostr/atlas-app-toolkit/v2/cmode/logger"
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 )
